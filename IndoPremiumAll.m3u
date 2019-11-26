@@ -101,17 +101,14 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",NADA MUSLIM
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",FOX Movies HD
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-
 #EXTINF:-1 group-title="MOVIES",HBO
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+http://203.207.56.228/live/iptv005.m3u8
 
-#EXTINF:-1 group-title="MOVIES",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+#EXTINF:-1 group-title="MOVIES",HBO (Backup)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 
-#EXTINF:-1 group-title="MOVIES",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1 group-title="MOVIES",HBO Family
+http://203.207.56.228/live/iptv004.m3u8
 
 #EXTINF:-1 group-title="MOVIES",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
@@ -119,13 +116,25 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463
 #EXTINF:-1 group-title="MOVIES",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
 
-#EXTINF:-1 group-title="MOVIES",(share ext) THRILL ID
+#EXTINF:-1 group-title="MOVIES",FOX Movies Premium
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+
+#EXTINF:-1 group-title="MOVIES",Fox Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+
+#EXTINF:-1 group-title="MOVIES",Diva
+http://210.210.155.35/session/8303708a-0196-11ea-bbc1-c81f66f89318/uq2663/h/h11/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",Hits
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1 group-title="MOVIES",THRILL ID
 http://rr2.dens.tv/s/s34/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
 
-#EXTINF:-1 group-title="MOVIES",HALLMARK MOVIES&MYSTERIEShttp://23.237.22.82:8086/udp/127.0.0.1:56067
+#EXTINF:-1 group-title="MOVIES",HALLMARK MOVIES&MYSTERIES
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Pluto Movies 2
@@ -142,9 +151,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 
 #EXTINF:-1 group-title="MOVIES",TV Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideA
-
-#EXTINF:-1 group-title="MOVIES",Fox Family
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
 
 #EXTINF:-1 group-title="MOVIES",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
@@ -296,12 +302,6 @@ http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003
 #EXTINF:-1 group-title="MOVIES",CITY WEEKLY
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="MOVIES",HBO (Backup)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-
-#EXTINF:-1 group-title="MOVIES",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=605ECEAD0BAA0EB3D019F3CD951C9C91637D35B2&profile=pass
-
 #EXTINF:-1 group-title="MOVIES",China movies clasic
 http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
 
@@ -332,8 +332,20 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 #EXTINF:-1,group-title="KIDS",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
+#EXTINF:-1,group-title="Kids",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
 #EXTINF:-1 group-title="KIDS",ANIME 1
 http://aldirect.hls.huya.com//huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/200?cb=20091118204932" group-title="KIDS",NickToons
+http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/fb/23/e8/fb23e8c5a2f547ff3c41b4213b59c132.jpg" group-title="KIDS",Nickelodeon
+http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="KIDS",DISNEY CHANNEL
+http://203.153.218.28:9981/stream/channelid/31701170
 
 #EXTINF:-1 group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -440,7 +452,7 @@ http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="KIDS",SAT7kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
 
-#EXTINF:-1 group-title="MOVIES",Spacetoon
+#EXTINF:-1 group-title="KIDS",Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 
 #EXTINF:-1 group-title="KIDS",TCT Kids
@@ -683,7 +695,7 @@ https://live.dufree4k.net/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT",Fox Sport 3 TH
 https://live.dufree4k.net/02_FoxSport3_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",True Sport HD 1
+#EXTINF:-1 group-title="SPORT",True Sport HD 1
 https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORT",,True Sport HD 2
@@ -692,7 +704,7 @@ https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT",True Sport HD 3
 https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",True Sport HD 4
+#EXTINF:-1 group-title="SPORT",True Sport HD 4
 https://live.dufree4k.net/02_2sporthd4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORT",True Sport 2
@@ -746,19 +758,19 @@ http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/18.ts
 #EXTINF:-1 group-title="SPORT",|AR| BEINSPORTS BKP10
 http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/20.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",|AR| BEINSPORT 8 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",|AR| BEINSPORT 8 FHD
 http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/34.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",|AR| BEINSPORT 9 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",|AR| BEINSPORT 9 FHD
 http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/30.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",|AR| BEINSPORTS 4  SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",|AR| BEINSPORTS 4  SD
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/43.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",|AR| BEINSPORTS 7 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",|AR| BEINSPORTS 7 SD
 http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/40.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",|AR| BEINSPORTS 9  SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",|AR| BEINSPORTS 9  SD
 http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/38.ts
 
 #EXTINF:-1 group-title="SPORT",|DE| DAZN 2 BAR HD
@@ -800,7 +812,7 @@ http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/215.ts
 #EXTINF:-1 group-title="SPORT",|PT| SPORT TV
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/212.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",|PT| KOMBATSPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",|PT| KOMBATSPORT
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/236.ts
 
 #EXTINF:-1 group-title="SPORT",|PT| EUROSPORT2
@@ -839,58 +851,58 @@ http://pie.buzz:83/InVisiontV132/Yaushyc235/21176
 #EXTINF:-1 group-title="SPORT",MUTV
 http://pie.buzz:83/InVisiontV132/Yaushyc235/67167
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS 1 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS 1 FHD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/309255
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS 1 HD_
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS 1 HD_
 http://pie.buzz:83/InVisiontV132/Yaushyc235/309257
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS 1 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS 1 SD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/143846
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS 2 FHD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/143893
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS 2 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS 2 SD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/143845
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS 3 FHD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/143896
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS 3 HD_
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS 3 HD_
 http://pie.buzz:83/InVisiontV132/Yaushyc235/309256
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS 3 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS 3 SD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/309254
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS ESPN FHD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS ESPN FHD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/362255
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK BT SPORTS ESPN HD_
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK BT SPORTS ESPN HD_
 http://pie.buzz:83/InVisiontV132/Yaushyc235/262998
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK ELEVEN SPORTS 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK ELEVEN SPORTS 1
 http://pie.buzz:83/InVisiontV132/Yaushyc235/306465
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK Eurosport 1 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK Eurosport 1 HD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/262879
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK Eurosport 2 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK Eurosport 2 HD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/262880
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK Eurosport 1 SD_
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK Eurosport 1 SD_
 http://pie.buzz:83/InVisiontV132/Yaushyc235/331881
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK Eurosport 2 SD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK Eurosport 2 SD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/331880
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK Free Sports
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK Free Sports
 http://pie.buzz:83/InVisiontV132/Yaushyc235/336666
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK Front Runner_
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK Front Runner_
 http://pie.buzz:83/InVisiontV132/Yaushyc235/352392
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",UK Racing HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",UK Racing HD
 http://pie.buzz:83/InVisiontV132/Yaushyc235/21174
 
 #EXTINF:-1 group-title="SPORT",UK Sky Sports Action
@@ -1124,15 +1136,6 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",NET
 http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA HD",Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA HD",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA HD",Diva
-http://210.210.155.35/session/8303708a-0196-11ea-bbc1-c81f66f89318/uq2663/h/h11/index.m3u8
-
 #EXTINF:-1 group-title="INDONESIA HD",Cinema World
 http://210.210.155.35/session/6ae925c4-0193-11ea-9fc3-c81f66f89318/uq2663/h/h04/index.m3u8
 
@@ -1201,19 +1204,18 @@ http://stream.doball.com:8080/hls/ch14.m3u8?feed
 #EXTINF:-1 group-title="FEED",Doball 15
 http://stream.doball.com:8080/hls/ch15.m3u8?feed
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO
-http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO CHANNEL
-http://iliketot.dyndns.TV/29fb241f985c468e8e6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDE4IDY6NTY6MTkgUE0maGFzaF92YWx1ZT1pV21sdUNEVXZpZ3I1bitwSEUrRDhBPT0mdmFsaWRtaW51dGVzPTImaWQ9Q2hveXw4MDN8aXB0dmhlcm98MTUyOTk1Mjk3OXwxMTkuNzYuMTUyLjM=
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",NATIONAL GEOGRAPHIC
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=2118F74522B46CFD8D03333A0913E3754D43F7E5&profile=pass
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO PEOPLE
 http://iliketot.dyndns.TV/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxMjo0MiBBTSZoYXNoX3ZhbHVlPWV2blpob000aWtYYmtRZCtSNWl4WWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgwNHx1cGxheXwxNTI4MjU0NzYyfDIwMi4yOC40MS4xNDQ=
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO WILD
-http://iliketot.dyndns.TV/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=9138C21246B9FD0852E5331DC1E0DDA46D7E3DF6&profile=pass
 
+#EXTINF:-1,group-title="Info",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -1301,13 +1303,14 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 http://210.210.155.35/session/0aa07616-303f-11e9-aeaf-8b22abb4aaa4/qwr9ew/s/s32/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",E! HD
-http://bit.ly/2NDlmWa
+http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES",&Flix
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 
 #EXTINF:-1 group-title="MOVIES",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
 
 #EXTINF:-1 group-title="MOVIES",THRILL HD
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
