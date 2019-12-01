@@ -44,6 +44,9 @@ https://api.new.livestream.com/accounts/19514369/events/fijiTVstream/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",BALI TV
+http://202.80.222.166/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
@@ -84,13 +87,16 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",NET TV
-http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/index.m3u8
+http://210.210.155.35/qwr9ew/s/s08/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",RTV
+http://210.210.155.35/qwr9ew/s/s12/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
@@ -99,7 +105,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",TRANS TV
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
@@ -112,6 +118,9 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",USEE PRIME
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+
+#EXTINF:-1 tvg-logo="" group-title="INFO",FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",???? / NICE BINGO
 http://61.58.60.230:9319/live/206.m3u8
@@ -390,7 +399,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://210.210.155.35:80/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",BLUE ANT ENTERTAINMENT
-http://bit.ly/2DvIkGl
+http://45.126.83.51/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",BLUE ANT EXTREME ID
 http://45.126.83.51/dr9445/h/h15/01.m3u8
@@ -660,7 +669,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",ZEE BIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
@@ -682,6 +691,45 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",AL JAZEERA
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",AR NEWS 3
+http://210.210.155.35/qwr9ew/s/s27/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",AR NEWS 4
+http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CAN
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",DW
+http://210.210.155.35/qwr9ew/s/s26/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",EURO NEWS
+http://210.210.155.35/qwr9ew/s/s15/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",FRANCE 24
+http://210.210.155.35/qwr9ew/s/s22/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",PHOENIX NEWS
+http://210.210.155.35/qwr9ew/s/s21/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",RT
+http://210.210.155.35/qwr9ew/s/s23/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",TV5 MONDE
+http://210.210.155.35/qwr9ew/s/s24/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",TVE
+http://210.210.155.35/qwr9ew/s/s25/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",|AR| BEINSPORT 1 HD
 http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
