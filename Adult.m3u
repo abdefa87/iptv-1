@@ -1,69 +1,232 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLLwwdCuMg1KDk4tMoWdCQiYWO2JfJBcalfe7dAfjwUoq1oa2C" group-title="ADULT 18+",BIKINI NETWORK
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="﻿24/7 ADULT IPTV",A3BIKINI TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",JASMIN.TV (+18)
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",AMAZING TV (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Miami TV (18+)
-http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",BABESTATION
+http://sdn-global-live-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8?fluxuslust.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Babestation 24 (18+)
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",FRENCHLOVER TV
+http://91.204.234.3:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Big Ass (18+)
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",FTV MIDNIGHT SECRETS (HD)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",FTV MIDNIGHT SECRETS (SD)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",FTV MIDNIGHT SECRETS (UHD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",HONEY TV (NEW!)
+http://122.38.74.172:9981/stream/channelid/1463854277
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",HOT TV (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",JASMIN TV (HD)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",MIAMI TV
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",MIAMI TV LATINO
+http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",MIAMI TV LIVE
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",MIDNIGHT TV (NEW!)
+http://112.148.183.161:9981/stream/channelid/96001658
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",NYX MEDIA 1 (OPT-1) (NEW!)
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",NYX MEDIA 1 (OPT-2) (NEW!)
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",NYX MEDIA 2 (OPT-1) (NEW!)
+https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/chunklist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",NYX MEDIA 2 (OPT-2) (NEW!)
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",O-LA-LA
+https://fluxustv.blogspot.com@bit.ly/32iNnnV?.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",PANDORA PINK (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",PRIV√© TV
+http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",PRIVATE HD
+https://fluxustv.blogspot.com@bit.ly/PrivateHD?.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",RAINBOW TV (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",SHEMALE TUBE TV 1
+http://www.ast.tv/stream/1/master.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",SHEMALE TUBE TV 2
+http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",SONG SHI 1 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",SONG SHI 2 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/984fa1vb/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",SUPER ONE HD
+https://fluxustv.blogspot.com@bit.ly/SuperOneHD?.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",VIKI TV (NEW!)
+http://112.148.183.161:9981/stream/channelid/488704961
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",VISIT-X TV (OPT-1)
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",VISIT-X TV (OPT-2)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 ADULT IPTV",ZEST TV
+https://fluxustv.blogspot.com@bit.ly/ZestTVPL?.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",BIG ASS
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",BIG DICK
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",BIG TITS
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",BLOWJOB
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",CUCKOLD
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",FETISH
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",HARDCORE
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",INTERRACIAL
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",LATINA
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",LESBIAN
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",MILF
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",PORNSTAR
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",POV
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",RUSSIAN
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",TEEN
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 RED TRAFFIC",THREESOME
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 1 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/846a1ghm/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 2 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 3 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/ahun18hg/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 4 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/84a15gbc/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 5 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/952a3vvv/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 6 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/456oinav/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 7 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 8 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 XCAFE TV",XCAFE 9 (NEW!)
+http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",BABESTATION 24 (18+)
+http://sdn-global-live-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",BIG ASS (18+)
 http://live.redtraffic.xyz/bigass.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Big Dick (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",BIG DICK (18+)
 http://live.redtraffic.xyz/bigdick.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Big Tits (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",BIG TITS (18+)
 http://live.redtraffic.xyz/bigtits.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Blowjob (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",BIKINI NETWORK
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",BLOWJOB HD 720 (18+)
 http://live.redtraffic.xyz/blowjob.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Big Ass (18+)
-http://live.redtraffic.xyz/bigass.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Big Dick (18+)
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Hard Core (18+)
-http://live.redtraffic.xyz/hardcore.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Three Some (18+)
-http://live.redtraffic.xyz/threesome.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Lesbian (18+)
-http://live.redtraffic.xyz/lesbian.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Blowjob HD 720 (18+)
-http://live.redtraffic.xyz/blowjob.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Cuckold HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",CUCKOLD HD 720 (18+)
 http://live.redtraffic.xyz/cuckold.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Fetish HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",FETISH HD 720 (18+)
 http://live.redtraffic.xyz/fetish.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Interracial HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",HARD CORE (18+)
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",INTERRACIAL HD 720 (18+)
 http://live.redtraffic.xyz/interracial.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Latina HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",JASMIN.TV (+18)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",LATINA HD 720 (18+)
 http://live.redtraffic.xyz/latina.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Milf HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",LESBIAN (18+)
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",MIAMI TV (18+)
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",MILF HD 720 (18+)
 http://live.redtraffic.xyz/milf.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Pornstar HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",PORNSTAR HD 720 (18+)
 http://live.redtraffic.xyz/pornstar.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",POV HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",POV HD 720 (18+)
 http://live.redtraffic.xyz/pov.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Russian HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",RUSSIAN HD 720 (18+)
 http://live.redtraffic.xyz/russian.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULT 18+",Teen HD 720 (18+)
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",TEEN HD 720 (18+)
 http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULT 18+",THREE SOME (18+)
+http://live.redtraffic.xyz/threesome.m3u8
+
