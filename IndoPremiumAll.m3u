@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="" group-title="﻿ENTERTAINMENT",AXN HD
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",DIVA
-http://210.210.155.35/session/8303708a-0196-11ea-bbc1-c81f66f89318/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",CCTV 4
+http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",DRAGON TV
-http://210.210.155.35/session/2db80216-1574-11ea-b03f-99a4baa6000d/qwr9ew/s/s29/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",DIVA
+http://45.126.83.51/uq2663/h/h11/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",EGG NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
@@ -60,16 +60,13 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",NET TV
-http://210.210.155.35/qwr9ew/s/s08/index2.m3u8
+http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA",RTV
-http://210.210.155.35/qwr9ew/s/s12/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
@@ -78,7 +75,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",TRANS TV
-http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
@@ -132,7 +129,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",ANIPLUS
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+http://45.126.83.51/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",BEN 10
 http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
@@ -267,7 +264,7 @@ http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NHK WORLD
-http://210.210.155.35/session/04051878-1574-11ea-9050-a2c8a80dde14/uq2663/h/h23/index.m3u8
+http://45.126.83.51/uq2663/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA",ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -342,7 +339,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",E! HD
-http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
+http://45.126.83.51/uq2663/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
@@ -381,7 +378,7 @@ http://45.126.83.51/dr9445/h/h16/index.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CHANNEL 8 SINGAPORE
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
@@ -423,7 +420,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
+http://45.126.83.51/uq2663/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
@@ -576,7 +573,7 @@ https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-
 https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+http://45.126.83.51/x6bnqe/s/s31/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",PLUTO MOVIES 2
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -626,6 +623,9 @@ http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",ZEE BIOSKOP
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",ZEE CINEMA HD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
@@ -634,6 +634,36 @@ https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",DANGDUT CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING ANIMATION
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING CLASSIC HITS
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING ELECTRO ROCK
+https://www.djing.com/tv/session_electro-rock.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING FRENCH TOUCH
+https://www.djing.com/tv/session_french-touch.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING HEDONIST
+https://www.djing.com/tv/session_hedonist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING HOT HOT HOT
+https://www.djing.com/tv/h-01-fta.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING IBIZA
+https://www.djing.com/tv/d-29013-03.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING KARAOKE
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING SUMMER VIBES
+https://www.djing.com/tv/session_summer-vibes.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",DJING UNDERGROUND
+https://www.djing.com/tv/underground.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
@@ -669,22 +699,22 @@ http://45.126.83.51/uq2663/h/h29/index.m3u8
 http://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",DW
-http://210.210.155.35/qwr9ew/s/s26/index2.m3u8
+http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",EURO NEWS
-http://210.210.155.35/qwr9ew/s/s15/index2.m3u8
+http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",FRANCE 24
-http://210.210.155.35/qwr9ew/s/s22/index2.m3u8
+http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",PHOENIX NEWS
-http://210.210.155.35/qwr9ew/s/s21/index2.m3u8
+http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",RT
-http://210.210.155.35/qwr9ew/s/s23/index2.m3u8
+http://45.126.83.51/qwr9ew/s/s23/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",TV5 MONDE
-http://210.210.155.35/qwr9ew/s/s24/index2.m3u8
+http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",TVE
 http://210.210.155.35/qwr9ew/s/s25/index2.m3u8
