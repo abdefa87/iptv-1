@@ -1,6 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="﻿ENTERTAINMENT",DRAGON TV
+#EXTINF:-1 tvg-logo="" group-title="﻿ENTERTAINMENT",AXN HD
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",DIVA
+http://210.210.155.35/session/8303708a-0196-11ea-bbc1-c81f66f89318/uq2663/h/h11/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",DRAGON TV
 http://210.210.155.35/session/2db80216-1574-11ea-b03f-99a4baa6000d/qwr9ew/s/s29/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",EGG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",SONY GEM TV
+http://45.126.83.51/uq2663/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
@@ -126,7 +144,7 @@ http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high
 http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
-http://188.35.9.11:21151/udp/185f
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DETECTIFE CONAN 1
 http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
@@ -134,14 +152,11 @@ http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DETECTIFE CONAN 2
 http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY CHANNEL
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR US
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-
-#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY MOVIE
-http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DORAEMON MOVIE
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
@@ -189,7 +204,7 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",NICKELODEON
-http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",NICKTOONS
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
@@ -231,19 +246,25 @@ http://ott-cdn.ucom.am/s46/index.m3u8
 http://wpso.com:1936/hls/kidshd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",ANIMAL PLANET
-http://80.80.160.168/live/1/live.m3u8
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",BLOOMBERG
 http://45.126.83.51/session/57eab37e-019e-11ea-b7f6-aa7099a066d0/uq2663/h/h03/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",HISTORY CHANNEL
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NAT GEO WILD
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=9138C21246B9FD0852E5331DC1E0DDA46D7E3DF6&profile=pass
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=2118F74522B46CFD8D03333A0913E3754D43F7E5&profile=pass
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NHK WORLD
 http://210.210.155.35/session/04051878-1574-11ea-9050-a2c8a80dde14/uq2663/h/h23/index.m3u8
@@ -261,9 +282,6 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA",CBS
-http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA",EBS
@@ -278,23 +296,20 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOREA",EBS+3
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KOREA",ESB1
+#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS1
 http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KOREA",ESB2
+#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA",ETN  SD
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KOREA",GOODTV
-http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KOREA",K DRAMA
-http://rr2.dens.tv/s/s42/index.m3u8
+http://45.126.83.51/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA",K+
-http://rr.dens.tv/h/h08/index2.m3u8
+http://45.126.83.51/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA",KBS LIVE
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
@@ -317,14 +332,14 @@ http://45.126.83.51/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOREA",TV-CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KOREA",TVN
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
+
 #EXTINF:-1 tvg-logo="" group-title="KOREA",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",DJING HITS
-https://www.djing.com/tv/hits.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",DJING HOT LIVE
-https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",ASIAN FOOD CHANNEL
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",E! HD
 http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
@@ -338,11 +353,14 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",GOODTV
+http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",J CHANNEL
 http://210.210.155.35/session/a3c8a67c-1574-11ea-9269-b21382a79a68/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",NAT GEO PEOPLE
-http://iliketot.dyndns.TV/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxMjo0MiBBTSZoYXNoX3ZhbHVlPWV2blpob000aWtYYmtRZCtSNWl4WWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgwNHx1cGxheXwxNTI4MjU0NzYyfDIwMi4yOC40MS4xNDQ=
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",TBN ASIA
 http://210.210.155.35/session/8a6b8262-1574-11ea-8d62-832388d2c0ad/qwr9ew/s/s39/index.m3u8
@@ -355,9 +373,6 @@ http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",1MOVIE 16
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",AXN HD
-http://210.210.155.35:80/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",BLUE ANT ENTERTAINMENT
 http://45.126.83.51/dr9445/h/h16/index.m3u8
@@ -380,17 +395,14 @@ http://203.154.243.89:2037
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMA WORLD
 http://45.126.83.51/session/ae23ef80-019e-11ea-acf6-a445af550c11/uq2663/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",DIVA
-http://210.210.155.35/session/8303708a-0196-11ea-bbc1-c81f66f89318/uq2663/h/h11/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",EGG NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMAXX
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX FAMILY MOVIES
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX MOVIES PREMIUM
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HALLMARK MOVIES&MYSTERIES
 http://23.237.22.82:8086/udp/127.0.0.1:56067
@@ -402,22 +414,19 @@ http://203.207.56.228/live/iptv005.m3u8
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO FAMILY
-http://203.207.56.228/live/iptv004.m3u8
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO SIGNATURE
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",MOVIE 01
 http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
@@ -581,9 +590,6 @@ http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",SINEMA INDONESIA
 http://bit.ly/2VLRg6f
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",SONY GEM TV
-http://210.210.155.35/session/6f6388de-0197-11ea-8e41-c81f66f89318/uq2663/h/h19/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 
@@ -594,7 +600,7 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",THRILL ID
-http://rr2.dens.tv/s/s34/index.m3u8
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",TN1
 http://thainguyentv.vn/hls/livestream.m3u8
@@ -645,7 +651,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",AR NEWS 3
 http://210.210.155.35/qwr9ew/s/s27/index2.m3u8
