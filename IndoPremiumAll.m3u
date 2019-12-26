@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="﻿ENTERTAINMENT",AXN HD
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",AXN HD
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",DIVA
@@ -257,8 +257,11 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFB
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",HISTORY CHANNEL
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NASA Earth Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1577338638/ei/rvIDXr3rCZbyoAOqrbfgBg/ip/103.104.12.185/id/21X5lGlDOfg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,maudio,go,itag,playlist_type/sig/ALgxI2wwRAIgbshZoo4Xq14A6KcwHscGzOPcCs_9pX0-izeAtgtZ3rECIDJ5rSYGIWgUiU7yjS0pGQOtvOxsn447FHiY2qEnnWdQ/file/index.m3u8,,
+
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1577338924/ei/zPMDXrrDGI6YoAPlhou4Dg/ip/103.104.12.185/id/nA9UZF-SZoQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,maudio,go,itag,playlist_type/sig/ALgxI2wwRQIgaT-VvQIu-0iCEAVkDejt_90PyPAqZ1rvGte-IFlr85kCIQC8iUNOYAKESpj4OfNkzyC2FTpu2b_oD752UVUjZdu3fw==/file/index.m3u8,,
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NAT GEO WILD
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
@@ -370,9 +373,6 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",&PRIVE HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",1MOVIE 16
-http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",BLUE ANT ENTERTAINMENT
 http://45.126.83.51/dr9445/h/h16/index.m3u8
@@ -712,6 +712,9 @@ http://210.210.155.35/qwr9ew/s/s21/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",RT
 http://210.210.155.35/qwr9ew/s/s23/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",SKY NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1577339037/ei/PfQDXpb_LJW6oQPwnYGQBw/ip/103.104.12.185/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,maudio,go,itag,playlist_type/sig/ALgxI2wwRgIhAMsxTgEDP8bCObN5zkYuyC-p5JsAOdtGSCxilrNlRvoVAiEAgzw6kddQRXnWX0jc6aun4GByBiFLF5ztYCB7ZNNdRls=/file/index.m3u8,,
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",TV5 MONDE
 http://210.210.155.35/qwr9ew/s/s24/index2.m3u8
