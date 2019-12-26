@@ -680,8 +680,11 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",ABC NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1577341176/ei/mPwDXqaFING_z7sPtMOGgAs/ip/103.104.12.185/id/dNCI18p9wSw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,maudio,go,itag,playlist_type/sig/ALgxI2wwRQIhALawZ-cCn7-MTw3S-GMOlY4msPP8yvx9Xg2FOfbvm3E1AiADT6eH9rYBJcBfKpEVbGjsjO7Cj3EYvDrAuBsmy-YpOw==/file/index.m3u8,,
+
 #EXTINF:-1 tvg-logo="" group-title="NEWS",AL JAZEERA
-http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1577341030/ei/BvwDXrTfGdu81AbvuSM/ip/103.104.12.185/id/RjIjKNcr_fk.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,maudio,go,itag,playlist_type/sig/ALgxI2wwRQIhAPRhXGjv2hranVO3TCkZk2gglx0ddS7EH8o6oDjQPq-CAiA3CWCcH_XhCVGbYkNBAAk-8oTbDi5xwl_sN4lPpxM40A==/file/index.m3u8,,
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",AR NEWS 3
 http://210.210.155.35/qwr9ew/s/s27/index2.m3u8
@@ -692,7 +695,7 @@ http://210.210.155.35/qwr9ew/s/s28/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS",CAN
+#EXTINF:-1 tvg-logo="" group-title="NEWS",C N A
 http://45.126.83.51/uq2663/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",CGTN
