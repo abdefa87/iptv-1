@@ -60,7 +60,7 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",NET TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1577337639/ei/x-4DXsvFMM6JoAOSqKMY/ip/103.104.12.185/id/S4wV8FyZOBY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,go,itag,playlist_type/sig/ALgxI2wwRQIgcvOxdesEA2gWAqAtXPqJiw9jrgEREGhrmbyCuwP9GMoCIQDuHe1uYk74AzQAINdhJauVObdUs_TB8pkR5KN1L5SnYA==/file/index.m3u8
+https://www.youtube.com/watch?v=S4wV8FyZOBY
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
