@@ -1,6 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",ADULT SWIM
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",AXN HD
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",COMEDY CENTRAL
+https://livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",DABL
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",DIVA
 http://210.210.155.35/session/8303708a-0196-11ea-bbc1-c81f66f89318/uq2663/h/h11/index.m3u8
@@ -161,6 +170,9 @@ http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D34
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NHK WORLD
 http://45.126.83.51/uq2663/h/h23/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="KOREA",ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -227,6 +239,9 @@ http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOREA",TVN
 http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KOREA",TVN HD
+http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="KOREA",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
@@ -235,6 +250,9 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B73
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",E! HD
 http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",ET LIVE
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",FASHION TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
@@ -256,6 +274,9 @@ http://rr2.dens.tv/s/s41/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",PEOPLE TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",TBN ASIA
 http://210.210.155.35/session/8a6b8262-1574-11ea-8d62-832388d2c0ad/qwr9ew/s/s39/index.m3u8
@@ -291,7 +312,7 @@ http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
 http://203.154.243.89:2037
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMA WORLD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMAXX
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
@@ -306,16 +327,13 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO
-http://203.207.56.228/live/iptv005.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO (BACKUP)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
+http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=m70290ab09fb91755596&ct=17980&tsum=0499ee2d1c2f56630d9889b6da5aa082
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO HITS
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=m70290ab09fb91755596&ct=17946&tsum=2dca1da09fd5f3be65f8bf3d84e6dbd9
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO SIGNATURE
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
@@ -638,54 +656,66 @@ http://210.210.155.35/qwr9ew/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",TVE
 http://210.210.155.35/qwr9ew/s/s25/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",ASTRO SUPERSPORT 1
+http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+
 #EXTINF:-1 tvg-logo="" group-title="SPORT",ASTRO SUPERSPORT 2
 http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",ASTRO SUPERSPORT 3
+http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",ASTRO SUPERSPORT 4
+http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",BEIN SPORT 1 ASIA
+https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",BEIN SPORT 2 ASIA
+https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORT",BT SPORT 1
-https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g2/btuk1.m3u8
+https://livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",BT SPORT 2
-https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g3/ukbt2sport.m3u8
+https://livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",BT SPORT ESPN
-https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",DISCOVERY SPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",FOX SPORTS
-http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="" group-title="SPORT",FOX SPORTS 1 ASIA
+https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",LFC TV
-http://caspertv.live:8000/live/younesspro/ZBcXeRsFTO/22289.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",FOX SPORTS 2 ASIA
+https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",FOX SPORTS 3 ASIA
+https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",MUTV
 http://caspertv.live:8000/live/younesspro/ZBcXeRsFTO/22288.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",SETANTA SPORTS +
-http://92.43.140.249/s82/04.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",SKY SPORTS ACTION
-https://iptvbad.000webhostapp.com/sky/master.php?id=187&f=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",SKY SPORTS F1
-https://iptvbad.000webhostapp.com/sky/master.php?id=188&f=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",SKY SPORTS GOLF
-https://iptvbad.000webhostapp.com/sky/master.php?id=189&f=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",SKY SPORTS MAIN EVENT
-https://iptvbad.000webhostapp.com/sky/master.php?id=190&f=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",SKY SPORTS MIX
-https://iptvbad.000webhostapp.com/sky/master.php?id=191&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",SKY SPORTS PREMIER LEAGUE
-https://iptvbad.000webhostapp.com/sky/master.php?id=192&f=.m3u8
+http://sds3.selez.xyz/hls/skyepllsh/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TRUE PREMIER FOOTBALL HD 1
-https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
+http://119.59.116.83:8081/4k/t1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TRUE PREMIER FOOTBALL HD 2
-https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
+http://119.59.116.83:8081/4k/t2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TRUE PREMIER FOOTBALL HD 3
+https://livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TRUE PREMIER FOOTBALL HD 4
+https://livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 
