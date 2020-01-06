@@ -311,9 +311,6 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CHINA MOVIES CLASIC
 http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMA THAI
-http://203.154.243.89:2037
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMA WORLD
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 
@@ -326,6 +323,9 @@ https://dl.dropbox.com/s/an6hr87kyrlcsp2/Citra%20Bioskop.m3u8?dl=0
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CITRA DRAMA
 https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX ACTION MOVIES
+http://203.207.56.228/live/iptv029.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX FAMILY MOVIES
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
 
@@ -336,16 +336,16 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO
-http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=m70290ab09fb91755596&ct=17980&tsum=0499ee2d1c2f56630d9889b6da5aa082
+http://203.207.56.228/live/iptv005.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO FAMILY
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+http://203.207.56.228/live/iptv004.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO HITS
 http://198.16.106.58:8278/hbohits_twn/playlist.m3u8?tid=m70290ab09fb91755596&ct=17946&tsum=2dca1da09fd5f3be65f8bf3d84e6dbd9
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO SIGNATURE
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+http://203.207.56.228/live/iptv006.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
@@ -503,32 +503,17 @@ https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",MY CINEMA
 http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",PLUTO MOVIES 2
-https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",RASMEYHANG MEAS
-http://43.245.34.2:9000/live/RasmeyHangMeasKH.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",SAMMO HUNG
-http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",SINEMA INDONESIA
 http://bit.ly/2VLRg6f
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAVEN COUE
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",THE INDONESIA CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",THRILL ID
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",TN1
-http://thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",TV ACTION MOVIES
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -623,6 +608,9 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",AL JAZEERA
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NEWS",AUSTRALIA CHANNEL
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="NEWS",BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
@@ -700,6 +688,9 @@ https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",FOX SPORTS 3 ASIA
 https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",GOLF
+http://yrsprts.xyz/hls/golf.m3u8?ch=http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
