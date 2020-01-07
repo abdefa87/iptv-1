@@ -104,6 +104,9 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY XD
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DRAGON BALL KAI
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
 
@@ -251,6 +254,9 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",ASIAN FOOD CHANNEL
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",E! HD
 http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
 
@@ -272,8 +278,14 @@ http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",HOPE CHANNEL
+http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",J CHANNEL
 http://rr2.dens.tv/s/s41/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",LOVE WORLD USA
+http://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
@@ -303,7 +315,7 @@ http://45.126.83.51/dr9445/h/h16/index.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CHANNEL 8 SINGAPORE
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
@@ -580,6 +592,12 @@ https://www.djing.com/tv/underground.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",KRAL POP
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",KRAL TV
+http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",KRAL WORLD
 http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b814000.m3u8
