@@ -27,22 +27,25 @@ http://210.210.155.35/session/2db80216-1574-11ea-b03f-99a4baa6000d/qwr9ew/s/s29/
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",FOX LIFE
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",LIFETIME
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",MNC COMEDY
+https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",SONY GEM TV
 http://45.126.83.51/uq2663/h/h19/index.m3u8
@@ -57,10 +60,10 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-m
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",BALI TV
-http://202.80.222.166/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://liveanevia.mncnow.id/live/eds/BaliTV/sa_hls/BaliTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -75,13 +78,13 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",JAK TV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_hls/JakTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",JTV SURABAYA
 http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",KOMPAS TV
-http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
@@ -89,11 +92,14 @@ http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",MNC TV
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",MYTV
+https://liveanevia.mncnow.id/live/eds/MyTV/sa_hls/MyTV-avc1_1000000=12-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",NET TV
-https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",RAJAWALI TV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
@@ -119,6 +125,9 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="" group-title="KIDS",BABY TV
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",BE SMART
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS",BOOMERANG
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 
@@ -129,10 +138,10 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR ID
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-avc1_1000000=8-mp4a_98800_eng=6.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY XD
-https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-mp4a_98800_ind=16.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DRAGON BALL KAI
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
@@ -167,6 +176,9 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 #EXTINF:-1 tvg-logo="" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",MNC KIDS
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS",NICK JR
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 
@@ -186,7 +198,7 @@ http://45.126.83.51/session/57eab37e-019e-11ea-b7f6-aa7099a066d0/uq2663/h/h03/in
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",HISTORY CHANNEL
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
@@ -224,27 +236,6 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOREA",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS+1
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS+2
-http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS+3
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS1
-http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",ETN  SD
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KOREA",K DRAMA
 http://45.126.83.51/qwr9ew/s/s42/index.m3u8
 
@@ -269,17 +260,11 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KOREA",SONY ONE
 http://45.126.83.51/uq2663/h/h143/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KOREA",TV-CHOSUN
-http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KOREA",TVN HD
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KOREA",TVN MOVIES
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOREA",YTN SCIENCE
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",ASIAN FOOD CHANNEL
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
@@ -315,7 +300,7 @@ http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",HOPE CHANNEL
 http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8
@@ -325,6 +310,9 @@ http://rr2.dens.tv/s/s41/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",LOVE WORLD USA
 http://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",MNC LIFESTYLE
+https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",NAT GEO PEOPLE
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
@@ -336,7 +324,7 @@ https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 http://210.210.155.35/qwr9ew/s/s39/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
@@ -353,26 +341,26 @@ http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",BLUE ANT EXTREME ID
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",CELESTIAL CLASSIC MOVIES
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CELESTIAL MOVIES
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",CHANNEL 8 SINGAPORE
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",CHINA MOVIES CLASIC
-http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMA WORLD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CINEMAXX
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CITRA BIOSKOP
 https://dl.dropbox.com/s/an6hr87kyrlcsp2/Citra%20Bioskop.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",CITRA DRAMA
 https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN-avc1_1000000=8-mp4a_98800_eng=6.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FOX ACTION MOVIES
 http://203.207.56.228/live/iptv029.m3u8
@@ -399,10 +387,10 @@ http://95.170.215.118/hls/m3u8/HBO-3.m3u8
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO HITS
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HBO SIGNATURE
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
@@ -569,8 +557,11 @@ http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",SINEMA INDONESIA
 http://bit.ly/2VLRg6f
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR CHINESE MOVIES
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR CHINESE MOVIES LEGEND
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",THE INDONESIA CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
@@ -590,6 +581,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",TV MOVIES
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideA
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",VISION PRIME
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",WAU TV
 http://nn.geo.joj.sk/hls/wau-360.m3u8
 
@@ -597,10 +591,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",ZEE BIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",ZEE BIOSKOP (Backup)
-https://dl.dropbox.com/s/6k1yy5encur77dp/Zeebioskp.m3u8?dl=0
+https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
@@ -668,6 +659,9 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",MUSIC TV
+https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",RETRO TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -712,6 +706,9 @@ http://210.210.155.35/qwr9ew/s/s23/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",TRT WORLD
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld-avc1_2499968=11-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",TV5 MONDE
 http://210.210.155.35/qwr9ew/s/s24/index2.m3u8
