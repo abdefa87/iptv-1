@@ -27,7 +27,7 @@ http://210.210.155.35/qwr9ew/s/s29/01.m3u8
 http://45.126.83.51/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/fox_global.png" group-title="ENTERTAINMENT",FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 
 #EXTINF:-1 tvg-logo="https://nstatic.net/img/tv/channels/m/fox-crime.png" group-title="ENTERTAINMENT",FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
@@ -207,7 +207,7 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/nat_geo_us.png" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/nhk_w_nl.jpg" group-title="KNOWLEDGE",NHK WORLD
 http://45.126.83.51/uq2663/h/h23/01.m3u8
@@ -315,10 +315,13 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment-avc
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" group-title="LIFESTYLE",NAT GEO PEOPLE
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/TBN_asia.png" group-title="LIFESTYLE",PEOPLE TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",REFORMED 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",TBN ASIA
 http://210.210.155.35/qwr9ew/s/s39/01.m3u8
